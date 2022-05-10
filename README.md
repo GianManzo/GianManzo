@@ -1,5 +1,6 @@
  <div align="center">
   <h1> Hi, I'm Gian Manzo👋 </h1> 
+ <h3> Front-end developer</h3>
   <img align="start" alt="Gian-boot" height="300" width="300" src="https://i.imgur.com/9pFg0z0.png">
  </div>
   <div align="start">
