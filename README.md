@@ -21,8 +21,8 @@
       <img align="center" alt="Gian-boot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   </div>
   <div align="start"><br>
-  <img  height="170rem" src="https://github-readme-stats.vercel.app/api?username=GianManzo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img  height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianManzo&layout=compact&langs_count=7&theme=aura"/>
+  <img  height="140rem" src="https://github-readme-stats.vercel.app/api?username=GianManzo&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img  height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianManzo&layout=compact&langs_count=7&theme=aura"/>
 </div>
  
   ##
