@@ -6,7 +6,7 @@
   <div align="start">
     
     - 🌎 I am currently in pursuit of my dream, entering the development area             
-    - 📚 I’m currently learning JAVASCRIPT | BOOTSTRAP | REACT
+    - 📚 I’m currently learning | REACT
     - 🚀 Ask me about future
     - 📲 How to reach me: ggianmanzo@gmail.com
     - 💻 Never stop learnig
